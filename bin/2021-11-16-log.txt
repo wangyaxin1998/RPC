@@ -1,0 +1,17 @@
+
+11:23:51 =>[error] first log message!
+11:23:51 =>[error] /root/projects/MPRPC/example/callee/userservice.cc:main:81
+11:23:51 =>[info] service_name:UserServiceRpc
+11:23:51 =>[info] method_name:Login
+11:23:51 =>[info] method_name:Register
+14:17:35 =>[error] first log message!
+14:17:35 =>[error] /root/projects/MPRPC/example/callee/userservice.cc:main:81
+14:17:35 =>[info] service_name:UserServiceRpc
+14:17:36 =>[info] method_name:Login
+14:17:36 =>[info] method_name:Register
+21:37:57 =>[info] service_name:UserServiceRpc
+21:37:57 =>[info] method_name:Login
+21:37:57 =>[info] method_name:Register
+21:51:26 =>[info] service_name:UserServiceRpc
+21:51:26 =>[info] method_name:Login
+21:51:26 =>[info] method_name:Register
